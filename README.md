@@ -13,6 +13,56 @@ I am a very enthusiastic and curious person👀. Obsessed with the truth
 and perfectionist🌟, I really like get and understand every knowledge
 and details available. And apply that new stuff in my life and work!💪
 
+## 👨‍💻 My Top Technologies 
+- JavaScript
+- HTML
+- CSS
+- TypeScript
+- SASS
+- StencilJS
+
+## 🤸‍♀️ My Top Skills 
+- UI Design
+- Responsive Web Design
+- SEO
+
+## 📚 IT Analyst Career
+#### Expected Graduation
+> 2023
+#### Score
+> 94%
+#### Approved Subject:
+> ##### Semester 1
+> - Applied Mathematics for Computing: **86%**
+> - Computational Thinking: **95%**
+> - Programming 1: **98%**
+> ##### Semester 2
+> - DataBase 1: **90%**
+> - Web UI Design: **99%**
+> - Programming 2: **97%**
+> ##### Semester 3 _(coming soon)_
+> - DataBase 2: **?%**
+> - Algorithm and Data Structure 1: **?%**
+> - Programming 3: **?%**
+> ##### ...
+
+## 📖 Current Learning
+- Unity3D
+
+## 👨‍🎓 Technologies to learn
+- Flutter & Dart
+- GraphQL
+- VueJS
+- UnrealEngine
+- Unity3D
+
+## 🙌 Know more about me!
+- Resume Web (wip): [https://markmed.github.io/](https://markmed.github.io/)
+- Portfolio Web: _Coming soon!_
+- Phone: +59895276697
+- LinkedIn: [https://www.linkedin.com/in/marcos-a-medina/](https://www.linkedin.com/in/marcos-a-medina/)
+- eMails: [marcmedi1.mam@gmail.com](mailto:marcmedi1.mam@gmail.com) | [marcmedi1@hotmail.com](mailto:marcmedi1@hotmail.com)
+
 <!--
 **MarkMed/MarkMed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
