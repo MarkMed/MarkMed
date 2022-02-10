@@ -58,6 +58,7 @@ and details available. And apply that new stuff in my life and work!💪
 - Unity3D
 
 ## 🙌 Know more about me!
+- Resume: [MarcosMedinaCV.pdf](https://github.com/MarkMed/MarkMed/raw/main/MarcosMedinaCV.pdf)
 - Resume Web (wip): [https://markmed.github.io/](https://markmed.github.io/)
 - Portfolio Web: _Coming soon!_
 - Phone: +59895276697
