@@ -13,19 +13,6 @@ I am a very enthusiastic and curious person👀. Obsessed with the truth
 and perfectionist🌟, I really like get and understand every knowledge
 and details available. And apply that new stuff in my life and work!💪
 
-## 👨‍💻 My Top Technologies 
-- JavaScript
-- HTML
-- CSS
-- TypeScript
-- SASS
-- StencilJS
-
-## 🤸‍♀️ My Top Skills 
-- UI Design
-- Responsive Web Design
-- SEO
-
 ## 📚 IT Analyst Career
 #### Expected Graduation
 > 2023
@@ -46,7 +33,21 @@ and details available. And apply that new stuff in my life and work!💪
 > - Programming 3: **?%**
 > ##### ...
 
-## 📖 Current Learning
+## 👨‍💻 My Top Technologies 
+- JavaScript
+- HTML
+- CSS
+- TypeScript
+- SASS
+- StencilJS
+
+## 🤸‍♀️ My Top Skills 
+- UI Design
+- Responsive Web Design
+- SEO
+
+## 📖 Current Learning / Improving
+- ReactJS
 - Unity3D
 
 ## 👨‍🎓 Technologies to learn
