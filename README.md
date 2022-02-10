@@ -1,4 +1,4 @@
-![markmed](https://raw.githubusercontent.com/MarkMed/MarkMed/main/image867.png)
+![markmed](https://raw.githubusercontent.com/MarkMed/MarkMed/main/heroImg.png)
 
 Hello there! It's Marcos here 👋
 
