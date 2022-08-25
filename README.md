@@ -39,6 +39,7 @@ and details available. And apply that new stuff in my life and work!💪
 - CSS
 - TypeScript
 - SASS
+- ReactJS
 - StencilJS
 
 ## 🤸‍♀️ My Top Skills 
@@ -47,7 +48,7 @@ and details available. And apply that new stuff in my life and work!💪
 - SEO
 
 ## 📖 Current Learning / Improving
-- ReactJS
+- SQL
 - Unity3D
 
 ## 👨‍🎓 Technologies to learn
