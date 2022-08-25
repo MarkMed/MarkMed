@@ -29,7 +29,7 @@ and details available. And apply that new stuff in my life and work!💪
 
 ## 📚 IT Analyst Career
 #### Expected Graduation
-> 2023
+> 2024
 #### Score
 > 94%
 #### Approved Subject:
