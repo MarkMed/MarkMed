@@ -1,6 +1,6 @@
 ![markmed](https://raw.githubusercontent.com/MarkMed/MarkMed/main/heroImg.png)
 
-Hello there! It's Marcos here 👋
+Hello there! Marcos here 👋
 
 I'm a restless Developer. Currently, I am mainly frontend web dev, studying IT Analyst career, and training for Game Dev 👌🎮
 
@@ -29,33 +29,33 @@ and details available. And apply that new stuff in my life and work!💪
 
 ## 📚 IT Analyst Career
 #### Expected Graduation
-> 2024
+> 2025
 #### Score
 > 94%
 #### Approved Subject:
 > ##### Semester 1
-> - Applied Mathematics for Computing: **86%**
-> - Computational Thinking: **95%**
-> - Programming 1: **98%**
+> - Applied Mathematics for Computing
+> - Computational Thinking
+> - Programming 1
 > ##### Semester 2
-> - DataBase 1: **90%**
-> - Web UI Design: **99%**
-> - Programming 2: **97%**
-> ##### Semester 3 _(coming soon)_
-> - DataBase 2: **?%**
-> - Algorithm and Data Structure 1: **?%**
-> - Programming 3: **?%**
-> ##### ...
+> - DataBase 1
+> - Web UI Design
+> - Programming 2
+> ##### Semester 3
+> - DataBase 2
+> - _(starting soon)_ Algorithm and Data Structure 1 
+> - _(next)_ Programming 3
 
 ## 📖 Current Learning / Improving
-- SQL
-- Unity3D
+- Ionic
+- C#
+- Lua
 
 ## 👨‍🎓 Technologies to learn
 - Flutter & Dart
 - GraphQL
 - VueJS
-- UnrealEngine
+- UnrealEngine 5
 - Unity3D
 
 ## 🙌 Know more about me!
