@@ -14,13 +14,13 @@ and knowledge🌟, I really like get and understand every knowledge
 and details available. And apply that new stuff in my life and work!💪
 
 ## 👨‍💻 My Top Technologies 
-- JavaScript
-- HTML
-- CSS
-- TypeScript
-- SASS
-- ReactJS
-- StencilJS
+![JavaScript](https://img.shields.io/badge/javascript-%23ffc927.svg?style=for-the-badge&logo=javascript&logoColor=%232e302c)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SASS](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+![ReactJS](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%23292929)
+![StencilJS](https://img.shields.io/badge/StencilJS-%2316171c.svg?style=for-the-badge&logo=scrutinizerci&logoColor=white)
 
 ## 🤸‍♀️ My Top Skills 
 - UI Design
