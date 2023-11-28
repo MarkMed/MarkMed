@@ -2,7 +2,7 @@
 
 Hello there! Marcos here 👋
 
-I'm a curious Web Dev. I have fullstack knowledge, but most of my experience and passion is in the Fronend side.
+I'm a curious Web Dev. I have fullstack knowledge, but most of my experience and passion is in the Frontend side.
 <!--
 I love design and build Web interfaces🎨, connect those interfaces
 with API if it's needed🔌, send and receive data to/from Backend🔁, display
