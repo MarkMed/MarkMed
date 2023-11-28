@@ -24,6 +24,7 @@ and details available. And apply that new stuff in my life and work!💪
 ![StencilJS](https://img.shields.io/badge/StencilJS-%2316171c.svg?style=for-the-badge&logo=scrutinizerci&logoColor=white)
 
 ## 🤸‍♀️ My Top Skills 
+- ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 - UI Design
 - Responsive Web Design
 - SEO
