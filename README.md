@@ -2,15 +2,16 @@
 
 Hello there! Marcos here 👋
 
-I'm a restless Developer. Currently, I am mainly frontend web dev, studying IT Analyst career, and training for Game Dev 👌🎮
-
+I'm a curious Developer. I have fullstack knowledge, but most of my experience and passion is in the Fronend side.
+<!--
 I love design and build Web interfaces🎨, connect those interfaces
-with API if it needed🔌, send and receive data to/from Backend🔁, display
+with API if it's needed🔌, send and receive data to/from Backend🔁, display
 dynamic data💻, apply Maths🧮, improve UX... Pretty much anything
-related with UI and code 🖼
+related with UI and code 🖼-->
 
-I am a very enthusiastic and curious person👀. Obsessed with the truth
-and knowledge🌟, I really like get and understand every knowledge
+I am a very enthusiastic and curious person👀. 
+Obsessed with the understanding and the truth🌟.
+I really like get and understand every knowledge
 and details available. And apply that new stuff in my life and work!💪
 
 ## 👨‍💻 My Top Technologies 
@@ -45,18 +46,24 @@ and details available. And apply that new stuff in my life and work!💪
 > - DataBase 2
 > - _(starting soon)_ Algorithm and Data Structure 1 
 > - _(next)_ Programming 3
+> ##### Semester 4
+> - _(starting soon)_ Algorithm and Data Structure 2 
+> - _(next)_ Software Engineer
+> - _(next)_ Application Design & Dev
 
 ## 📖 Current Learning / Improving
-- Ionic
-- C#
-- Lua
+![#C](https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.net-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core 7](https://img.shields.io/badge/Entity%20Framework%20Core-%23512BD4.svg?style=for-the-badge)
 
-## 👨‍🎓 Technologies to learn
-- Flutter & Dart
-- GraphQL
-- VueJS
-- UnrealEngine 5
-- Unity3D
+## 👨‍🎓 Want to learn
+![NextJS](https://img.shields.io/badge/NextJS-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![VueJS](https://img.shields.io/badge/VueJS-%2340b07d.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![UE5](https://img.shields.io/badge/Unreal%20Engine-%230E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## 🙌 Know more about me!
 - (outdated) Resume: [MarcosMedinaCV.pdf](https://github.com/MarkMed/MarkMed/raw/main/MarcosMedinaCV.pdf)
