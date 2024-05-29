@@ -31,7 +31,7 @@ and details available. And apply that new stuff in my life and work!💪
 
 ## 📚 IT Analyst Career
 #### Expected Graduation
-> 2025
+> 2026
 #### Score
 > 93%
 #### Approved Subject:
@@ -53,18 +53,17 @@ and details available. And apply that new stuff in my life and work!💪
 > - _(next)_ Application Design & Dev
 
 ## 📖 Current Learning / Improving
-![#C](https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.net-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework Core 7](https://img.shields.io/badge/Entity%20Framework%20Core-%23512BD4.svg?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-e9473b?style=for-the-badge)
+![Algo & DataStructures](https://img.shields.io/badge/Algo%20&%20DataStructures-bfbfbf?style=for-the-badge)
 
 ## 👨‍🎓 Want to learn
 ![NextJS](https://img.shields.io/badge/NextJS-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![VueJS](https://img.shields.io/badge/VueJS-%2340b07d.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
-![unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![UE5](https://img.shields.io/badge/Unreal%20Engine-%230E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![VueJS](https://img.shields.io/badge/VueJS-%2340b07d.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![UE5](https://img.shields.io/badge/Unreal%20Engine-%230E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ## 🙌 Know more about me!
 - (outdated) Resume: [MarcosMedinaCV.pdf](https://github.com/MarkMed/MarkMed/raw/main/MarcosMedinaCV.pdf)
@@ -77,6 +76,9 @@ and details available. And apply that new stuff in my life and work!💪
 <!--
 **MarkMed/MarkMed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![#C](https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.net-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core 7](https://img.shields.io/badge/Entity%20Framework%20Core-%23512BD4.svg?style=for-the-badge)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
