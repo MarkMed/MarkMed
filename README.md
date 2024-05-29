@@ -33,7 +33,7 @@ and details available. And apply that new stuff in my life and work!💪
 #### Expected Graduation
 > 2025
 #### Score
-> 94%
+> 93%
 #### Approved Subject:
 > ##### Semester 1
 > - Applied Mathematics for Computing
@@ -45,10 +45,10 @@ and details available. And apply that new stuff in my life and work!💪
 > - Programming 2
 > ##### Semester 3
 > - DataBase 2
-> - _(starting soon)_ Algorithm and Data Structure 1 
-> - _(next)_ Programming 3
+> - Algorithm and Data Structure 1 
+> - Programming 3
 > ##### Semester 4
-> - _(starting soon)_ Algorithm and Data Structure 2 
+> - _(current)_ Algorithm and Data Structure 2 
 > - _(next)_ Software Engineer
 > - _(next)_ Application Design & Dev
 
