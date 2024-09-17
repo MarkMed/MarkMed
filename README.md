@@ -50,9 +50,9 @@ and details available. And apply that new stuff in my life and work!💪
 > - Algorithm and Data Structure 1 
 > - Programming 3
 > ##### Semester 4
-> - _(current)_ Algorithm and Data Structure 2 
-> - _(next)_ Software Engineer
-> - _(next)_ Application Design & Dev
+> - Algorithm and Data Structure 2 
+> - _(current)_ Software Engineer
+> - _(current)_ Software Architecture & Design
 
 ## 📖 Current Learning / Improving
 ![Java](https://img.shields.io/badge/Java-e9473b?style=for-the-badge)
