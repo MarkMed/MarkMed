@@ -7,13 +7,13 @@ with API if it's needed🔌, send and receive data to/from Backend🔁, display
 dynamic data💻, apply Maths🧮, improve UX... Pretty much anything
 related with UI and code 🖼-->
 
-Fullstack dev with great experience and passion on FrontEnd wizardry.
-I enjoy designing elegant interfaces and turning code into delightful experiences.
+Fullstack dev with great experience and passion on FrontEnd wizardry🔮 I enjoy designing elegant interfaces and turning code into delightful experiences.
 
-Driven by a curious and enthusiastic nature, I strive to uncover the underlying truths of reality through math and abstraction.
+
+Driven by a curious and enthusiastic nature, I strive to uncover the underlying truths of reality through math and abstraction 👁☀
 
 With a keen eye for detail and a commitment to continuous discovering, I aim to analyze and create optimized solutions.
-Let's build something amazing together!
+Let's build something amazing together!🙌
 
 ## 👨‍💻 My Top Technologies 
 ![JavaScript](https://img.shields.io/badge/javascript-%23ffc927.svg?style=for-the-badge&logo=javascript&logoColor=%232e302c)
