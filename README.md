@@ -1,18 +1,19 @@
 ![markmed](https://raw.githubusercontent.com/MarkMed/MarkMed/main/heroImg.png)
 
 Hello there! Marcos here 👋
-
-I'm a curious Web Dev. I have fullstack knowledge, but most of my experience and passion is in the Frontend side.
 <!--
 I love design and build Web interfaces🎨, connect those interfaces
 with API if it's needed🔌, send and receive data to/from Backend🔁, display
 dynamic data💻, apply Maths🧮, improve UX... Pretty much anything
 related with UI and code 🖼-->
 
-I am a very enthusiastic and curious person👀. 
-Obsessed with the understanding and the truth🌟.
-I really like get and understand every knowledge
-and details available. And apply that new stuff in my life and work!💪
+Fullstack dev with great experience and passion on FrontEnd wizardry.
+I enjoy designing elegant interfaces and turning code into delightful experiences.
+
+Driven by a curious and enthusiastic nature, I strive to uncover the underlying truths of reality through math and abstraction.
+
+With a keen eye for detail and a commitment to continuous discovering, I aim to analyze and create optimized solutions.
+Let's build something amazing together!
 
 ## 👨‍💻 My Top Technologies 
 ![JavaScript](https://img.shields.io/badge/javascript-%23ffc927.svg?style=for-the-badge&logo=javascript&logoColor=%232e302c)
