@@ -57,7 +57,8 @@ Let's build something amazing together!🙌
 
 ## 📖 Current Learning / Improving
 ![Java](https://img.shields.io/badge/Java-e9473b?style=for-the-badge)
-![Algo & DataStructures](https://img.shields.io/badge/Algo%20&%20DataStructures-bfbfbf?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-bfbfbf?style=for-the-badge)
+![Requirements management](https://img.shields.io/badge/Requirements%20management-bfbfbf?style=for-the-badge)
 
 ## 👨‍🎓 Want to learn
 ![NextJS](https://img.shields.io/badge/NextJS-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
