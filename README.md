@@ -69,7 +69,7 @@ Let's build something amazing together!🙌
 ![UE5](https://img.shields.io/badge/Unreal%20Engine-%230E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ## 🙌 Know more about me!
-- (outdated) Resume: [MarcosMedinaCV.pdf](https://github.com/MarkMed/MarkMed/raw/main/Marcos%20Medina%20Resume.docx)
+- Resume: [pdf](https://github.com/MarkMed/MarkMed/raw/main/Marcos%20Medina%20Resume.pdf) or [docx](https://github.com/MarkMed/MarkMed/raw/main/Marcos%20Medina%20Resume.docx)
 - Resume Web (wip): [https://markmed.github.io/](https://markmed.github.io/)
 - Portfolio Web: _Coming soon!_
 - Phone: +59895276697
