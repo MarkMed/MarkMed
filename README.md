@@ -29,8 +29,7 @@ Let's build something amazing together!🙌
 - Git
 - GitFlow
 - UI Design
-- Responsive Design & Dev
-- Requirements Analyst
+- Design Patterns & Architecture
 
 ## 📚 IT Analyst Career
 #### Expected Graduation
@@ -52,8 +51,12 @@ Let's build something amazing together!🙌
 > - Programming 3
 > ##### Semester 4
 > - Algorithm and Data Structure 2 
-> - _(current)_ Software Engineer
-> - _(current)_ Software Architecture & Design
+> - Software Engineer
+> - Software Architecture & Design
+> ##### Specialization
+> - _(current)_ Mobile Dev (UX/UI + Back + Front) 
+> ##### Final Project
+> - _(starting soon)_
 
 ## 📖 Current Learning / Improving
 ![Java](https://img.shields.io/badge/Java-e9473b?style=for-the-badge)
