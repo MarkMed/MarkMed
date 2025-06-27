@@ -25,7 +25,10 @@ Let's build something amazing together!🙌
 ![StencilJS](https://img.shields.io/badge/StencilJS-%2316171c.svg?style=for-the-badge&logo=scrutinizerci&logoColor=white)
 
 ## 🤸‍♀️ My Top Skills 
-<!--- ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)-->
+<!---
+  ![NAME](https://img.shields.io/badge/LABEL-%BGCOLOR.svg?style=for-the-badge&logo=ICON&logoColor=%ICONCOLOR)
+  get icon from https://simpleicons.org/
+-->
 - Git
 - GitFlow
 - UI Design
@@ -59,9 +62,9 @@ Let's build something amazing together!🙌
 > - _(starting soon)_
 
 ## 📖 Current Learning / Improving
-![Java](https://img.shields.io/badge/Java-e9473b?style=for-the-badge)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%23292929)
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-bfbfbf?style=for-the-badge)
-![Requirements management](https://img.shields.io/badge/Requirements%20management-bfbfbf?style=for-the-badge)
+![Fullstack Dev](https://img.shields.io/badge/Requirements%20management-bfbfbf?style=for-the-badge)
 
 ## 👨‍🎓 Want to learn
 ![NextJS](https://img.shields.io/badge/NextJS-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
