@@ -41,25 +41,26 @@ Let's build something amazing together!🙌
 > 93%
 #### Approved Subject:
 > ##### Semester 1
-> - Applied Mathematics for Computing
-> - Computational Thinking
-> - Programming 1
+> - ✅ Applied Mathematics for Computing
+> - ✅ Computational Thinking
+> - ✅ Programming 1
 > ##### Semester 2
-> - DataBase 1
-> - Web UI Design
-> - Programming 2
+> - ✅ DataBase 1
+> - ✅ Web UI Design
+> - ✅ Programming 2
 > ##### Semester 3
-> - DataBase 2
-> - Algorithm and Data Structure 1 
-> - Programming 3
+> - ✅ DataBase 2
+> - ✅ Algorithm and Data Structure 1 
+> - ✅ Programming 3
 > ##### Semester 4
-> - Algorithm and Data Structure 2 
-> - Software Engineer
-> - Software Architecture & Design
+> - ✅ Algorithm and Data Structure 2 
+> - ✅ Software Engineer
+> - ✅ Software Architecture & Design
 > ##### Specialization
-> - _(current)_ Mobile Dev (UX/UI + Back + Front) 
+> - ✅ Mobile Dev (UX/UI + Back + Front) 
 > ##### Final Project
-> - _(starting soon)_
+> - ✅ Project Planning
+> - _(current)_ Project Development
 
 ## 📖 Current Learning / Improving
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%23292929)
